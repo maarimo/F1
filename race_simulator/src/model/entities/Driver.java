@@ -31,7 +31,7 @@ public class Driver {
 		this.scuderia = scuderia;
 	}
 	
-	@Override
+	//@Override
 	public String toString() {
 		return scuderia + " <---> " + name;
 	}
