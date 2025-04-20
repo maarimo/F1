@@ -22,3 +22,7 @@ O projeto é composto pelas seguintes classes:
 - `Race`: gerencia os pilotos e a lógica da simulação.
 - `Bet`: contem a lógica de aposta.
 - `Program`: ponto de entrada do programa, responsável pela interação com o usuário.
+
+---
+## Nota 📋
+- Adicionei um index.html feito pelo chat gpt apenas para testes.
