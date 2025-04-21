@@ -24,5 +24,4 @@ O projeto é composto pelas seguintes classes:
 - `Program`: ponto de entrada do programa, responsável pela interação com o usuário.
 
 ---
-## 📋 Nota 
-- Adicionei um index.html feito pelo chat gpt apenas para testes.
+
